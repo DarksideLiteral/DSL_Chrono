@@ -1,0 +1,17 @@
+[Info]
+Name         = "Chrono"
+DisplayName  = "Chrono 2.0.5"
+VersionDate  = 09,09,2019
+MUGENVersion = 1.1
+Author       = "D.S.Literal"
+Pal.Defaults = 1
+localcoord = 1280,720       ;Local coordinate space width and height
+
+[Files]
+cmd      = var/command
+cns      = Chrono.cns
+st	     = var/state
+stcommon = common1.cns
+sprite	 = Chrono.sff
+anim	 = Chrono.air
+sound	 = Chrono.snd
